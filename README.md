@@ -1,7 +1,7 @@
 - 👋 Hey,This is MUHSINA BEEGUM!!
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Integrated Msc in Computer science with specialisation in AI & DS
-- 📫 How to reach me @muhsinamohammedkutty2003@gmail.com
+- 📫 Reach me @muhsinamohammedkutty2003@gmail.com
 - ⚡ Fun fact: ...... nothing !
 
 <!---
