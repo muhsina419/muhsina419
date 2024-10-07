@@ -9,7 +9,7 @@
 
 ![Muhsina Beegum's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhsina419&show_icons=true&theme=radical&count_private=true&hide=stars&line_height=30)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhsina419&layout=compact&theme=radical)](https://github.com/muhsina419/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhsina419&layout=compact&theme=radical&langs_count=6&hide=stars)](https://github.com/muhsina419/github-readme-stats)
 
 ### 📫 Reach me:
 - 📧 Email: muhsinamohammedkutty2003@gmail.com
