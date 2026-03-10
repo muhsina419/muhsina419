@@ -1,10 +1,19 @@
-### 👋 Hey There, I'm Muhsina Beegum!  
-_"Code. Create. Innovate."_  
-
-🚀 I'm an MSc Computer Science (AI & DS) student at CUSAT, tech enthusiast, community builder, and creative soul.  
-I love turning ideas into impactful digital products through code and design.  
+###  Hey There 👋, I'm Muhsina Beegum!  
+_"Code. Create. Innovate."_ 
+<h3 align="center">Maker • AI & Data Science Student • Women In tech</h3>
 
 ---
+
+## 👩‍💻 About Me
+
+🎓 MSc Computer Science (AI & Data Science) @ CUSAT  
+💡 Passionate about **AI, Data Science, and Full-Stack Development**  
+🌱 Exploring **machine learning, digital audio processing, and intelligent systems**  
+🤝 Outreach Lead at **CodeSakhi** – building tech communities  
+🚀 Love working on **hackathons, research projects, and collaborative builds**
+
+---
+
 
 ### 🛠️ Tech Stack
 <div align="center">
@@ -48,6 +57,19 @@ I love turning ideas into impactful digital products through code and design.
   <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
 
 </div>
+
+---
+
+## 🏆 Achievements & Activities
+
+🏅 Hackathon participant and builder  
+📄 Research and academic projects in **AI & data science**  
+🌍 Active in **tech communities and student initiatives**  
+🎤 Organized and contributed to multiple **technical events and hackathons**
+
+---
+
+
 
 ### 🏆 GitHub Achievements
 ![Trophies](https://github-profile-trophy.vercel.app/?username=muhsina419&theme=radical&no-frame=true)
