@@ -1,6 +1,11 @@
-###  Hey There 👋, I'm Muhsina Beegum!  
-_"Code. Create. Innovate."_ 
-<h3 align="center">Maker • AI & Data Science Student • Women In tech</h3>
+<div align="center">
+
+### Hey There 👋, I'm Muhsina Beegum!  
+_"Code. Create. Innovate."_  
+
+<h3>Maker • AI & Data Science Student • Women in Tech</h3>
+
+</div>
 
 ---
 
@@ -8,8 +13,7 @@ _"Code. Create. Innovate."_
 
 🎓 MSc Computer Science (AI & Data Science) @ CUSAT  
 💡 Passionate about **AI, Data Science, and Full-Stack Development**  
-🌱 Exploring **machine learning, digital audio processing, and intelligent systems**  
-🤝 Outreach Lead at **CodeSakhi** – building tech communities  
+🌱 Exploring **machine learning, digital audio processing, and intelligent systems**   
 🚀 Love working on **hackathons, research projects, and collaborative builds**
 
 ---
@@ -62,7 +66,7 @@ _"Code. Create. Innovate."_
 
 ## 🏆 Achievements & Activities
 
-🏅 Hackathon participant and builder  
+🏅 Hackathon participant and winner  
 📄 Research and academic projects in **AI & data science**  
 🌍 Active in **tech communities and student initiatives**  
 🎤 Organized and contributed to multiple **technical events and hackathons**
