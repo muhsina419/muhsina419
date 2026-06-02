@@ -1,9 +1,6 @@
 <div align="center">
 
 ### Hey There 👋, I'm Muhsina Beegum!  
-_"Code. Create. Innovate."_  
-
-<h3>Maker • AI & Data Science Student • Women in Tech</h3>
 
 </div>
 
@@ -66,7 +63,7 @@ _"Code. Create. Innovate."_
 
 ## 🏆 Achievements & Activities
 
-🏅 Hackathon participant and winner  
+🏅 Multiple Hackathon participant and winner  
 📄 Research and academic projects in **AI & data science**  
 🌍 Active in **tech communities and student initiatives**  
 🎤 Organized and contributed to multiple **technical events and hackathons**
